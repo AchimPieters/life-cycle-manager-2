@@ -1,0 +1,6 @@
+[submodule "Accessories-wifi-config"]
+	path = Accessories-wifi-config
+	url = https://Achimpieters@github.com/AchimPieters/Accessories-wifi-config
+[submodule " esp-wolfssl"]
+	path = " esp-wolfssl"
+	url = https://Achimpieters@github.com/maximkulkin/esp-wolfssl
