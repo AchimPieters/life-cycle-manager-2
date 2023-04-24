@@ -1,4 +1,4 @@
-# Life-Cycle-Manager (LCM)
+# Life Cycle Manager <sup>2</sup>
 Initial install, WiFi settings and over the air firmware upgrades for any esp-open-rtos repository on GitHub  
 (c) 2018-2022 HomeAccessoryKid
 
